@@ -1,5 +1,8 @@
 # Kitchen-Buddy
 
+Davide Colella
+ID number: 21288
+
 Welcome to **Kitchen-Buddy**, an Expo project designed to help you manage your kitchen inventory with ease. This app allows you to keep track of ingredients, filter them by various properties, and even scan barcodes to automatically populate ingredient details using OpenFoodFacts APIs.
 
 ## Features
